@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/.android/build-cache/49da4838ba756fe27f2f22291d2c3bd3598532b9/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/.android/build-cache/49da4838ba756fe27f2f22291d2c3bd3598532b9/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/.android/build-cache/0230d61e87d10bac5d193686834005591f3244b6/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/.android/build-cache/49da4838ba756fe27f2f22291d2c3bd3598532b9/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/.android/build-cache/49da4838ba756fe27f2f22291d2c3bd3598532b9/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/.android/build-cache/49da4838ba756fe27f2f22291d2c3bd3598532b9/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/.android/build-cache/49da4838ba756fe27f2f22291d2c3bd3598532b9/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/.android/build-cache/49da4838ba756fe27f2f22291d2c3bd3598532b9/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/.android/build-cache/49da4838ba756fe27f2f22291d2c3bd3598532b9/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/.android/build-cache/49da4838ba756fe27f2f22291d2c3bd3598532b9/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/.android/build-cache/49da4838ba756fe27f2f22291d2c3bd3598532b9/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]

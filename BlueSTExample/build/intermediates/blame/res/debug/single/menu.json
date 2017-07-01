@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/menu/menu_demo.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/res/menu/menu_demo.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/menu/menu_log_feature.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTSDK/build/intermediates/bundles/default/res/menu/menu_log_feature.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/menu/menu_scan.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/res/menu/menu_scan.xml"
+    }
+]

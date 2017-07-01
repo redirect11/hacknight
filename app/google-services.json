@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "705000594092",
+    "firebase_url": "https://cityassistant-33696.firebaseio.com",
+    "project_id": "cityassistant-33696",
+    "storage_bucket": "cityassistant-33696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705000594092:android:fa05c9269b9c1dc3",
+        "android_client_info": {
+          "package_name": "com.borderhack.android.hackathonmuseum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705000594092-9b51jacn54ag5gkdkrpvo34doff4erh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.borderhack.android.hackathonmuseum",
+            "certificate_hash": "4f9318bd990ca158ef8584f5aca0e75a5aadd187"
+          }
+        },
+        {
+          "client_id": "705000594092-te023ukaqglgdk4ol4n7rq2rpggqbutt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxAf6XrOOVRWfruUmVm3o99CKcRz68Cto"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705000594092-te023ukaqglgdk4ol4n7rq2rpggqbutt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

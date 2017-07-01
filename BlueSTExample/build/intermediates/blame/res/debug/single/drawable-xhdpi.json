@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/drawable-xhdpi/board_steval_wesu1.png",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/res/drawable-xhdpi/board_steval_wesu1.png"
+    },
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/drawable-xhdpi/board_nucleo.png",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/res/drawable-xhdpi/board_nucleo.png"
+    },
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/drawable-xhdpi/board_generic.png",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/res/drawable-xhdpi/board_generic.png"
+    }
+]

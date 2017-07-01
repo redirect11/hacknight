@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/xml/pref_configuration.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/res/xml/pref_configuration.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/build/intermediates/res/merged/debug/xml/pref_headers_configuration.xml",
+        "source": "/Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/res/xml/pref_headers_configuration.xml"
+    }
+]

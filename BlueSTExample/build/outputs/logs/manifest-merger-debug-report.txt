@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:2:11-45
+		INJECTED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml
+application
+ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:5:5-46:19
+MERGED from [com.android.support:design:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/0230d61e87d10bac5d193686834005591f3244b6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/9d4298abc65bb5ec7e091cd236db230219761230/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/49da4838ba756fe27f2f22291d2c3bd3598532b9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/44368bb70bd2b335d7bb245fd40ec11b3af0e15a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/03d301be865831c2159284cfdf87c0a981b11c6b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/c3151c0a3de3125177b11ddbbe46886fccce736e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/646d627eaf30eab70827c0778955e6b14b60fb2e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/366af655549a9cbadb595ee261ccff35561c4e7f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/a33ab9bb0e45cd7d15b7da5753984367fd93e0d9/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/f9f3b248893771c6ff8707a240d1bdb6f88fc8ba/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/faf31d58df4207e790ef9b9bd39459f1c7f1aaba/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:9:9-40
+activity#com.st.BlueSTSDK.Example.ScanActivity
+ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:12:13-56
+	android:name
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:11:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:16:27-74
+activity#com.st.BlueSTSDK.Example.FeatureListActivity
+ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:21:13-56
+	android:parentActivityName
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:23:13-55
+	android:launchMode
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:22:13-43
+	android:name
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:20:13-48
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:24:13-26:72
+	android:value
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:26:17-70
+	android:name
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:25:17-63
+activity#com.st.BlueSTSDK.Example.DebugConsoleActivity
+ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:28:9-36:20
+	android:screenOrientation
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:30:13-65
+	android:parentActivityName
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:32:13-62
+	android:name
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:29:13-49
+activity#com.st.BlueSTSDK.Example.SettingsActivity
+ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:37:9-44:20
+	android:label
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:39:13-60
+	android:parentActivityName
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:40:13-63
+	android:name
+		ADDED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml:38:13-45
+uses-sdk
+INJECTED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [HackathonMuseum:BlueSTSDK:unspecified] /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTSDK/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/0230d61e87d10bac5d193686834005591f3244b6/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/6f6c8d0aff6652795952a451d5a51eff0d9338c6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/9d4298abc65bb5ec7e091cd236db230219761230/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/49da4838ba756fe27f2f22291d2c3bd3598532b9/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/44368bb70bd2b335d7bb245fd40ec11b3af0e15a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/03d301be865831c2159284cfdf87c0a981b11c6b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/c3151c0a3de3125177b11ddbbe46886fccce736e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/646d627eaf30eab70827c0778955e6b14b60fb2e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/366af655549a9cbadb595ee261ccff35561c4e7f/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/a33ab9bb0e45cd7d15b7da5753984367fd93e0d9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/f9f3b248893771c6ff8707a240d1bdb6f88fc8ba/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/faf31d58df4207e790ef9b9bd39459f1c7f1aaba/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/0230d61e87d10bac5d193686834005591f3244b6/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTExample/src/main/AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from [HackathonMuseum:BlueSTSDK:unspecified] /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTSDK/build/intermediates/bundles/default/AndroidManifest.xml:12:5-14:35
+	android:required
+		ADDED from [HackathonMuseum:BlueSTSDK:unspecified] /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTSDK/build/intermediates/bundles/default/AndroidManifest.xml:14:9-32
+	android:name
+		ADDED from [HackathonMuseum:BlueSTSDK:unspecified] /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTSDK/build/intermediates/bundles/default/AndroidManifest.xml:13:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from [HackathonMuseum:BlueSTSDK:unspecified] /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTSDK/build/intermediates/bundles/default/AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from [HackathonMuseum:BlueSTSDK:unspecified] /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTSDK/build/intermediates/bundles/default/AndroidManifest.xml:17:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [HackathonMuseum:BlueSTSDK:unspecified] /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTSDK/build/intermediates/bundles/default/AndroidManifest.xml:19:5-74
+	android:name
+		ADDED from [HackathonMuseum:BlueSTSDK:unspecified] /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTSDK/build/intermediates/bundles/default/AndroidManifest.xml:19:22-71
+uses-permission-sdk-23
+ADDED from [HackathonMuseum:BlueSTSDK:unspecified] /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTSDK/build/intermediates/bundles/default/AndroidManifest.xml:21:5-88
+	android:name
+		ADDED from [HackathonMuseum:BlueSTSDK:unspecified] /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTSDK/build/intermediates/bundles/default/AndroidManifest.xml:21:29-85
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [HackathonMuseum:BlueSTSDK:unspecified] /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTSDK/build/intermediates/bundles/default/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from [HackathonMuseum:BlueSTSDK:unspecified] /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTSDK/build/intermediates/bundles/default/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [HackathonMuseum:BlueSTSDK:unspecified] /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTSDK/build/intermediates/bundles/default/AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from [HackathonMuseum:BlueSTSDK:unspecified] /Volumes/Macintosh_HD/Users/redirect/Desktop/HackathonMuseum/BlueSTSDK/build/intermediates/bundles/default/AndroidManifest.xml:26:22-77
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/0230d61e87d10bac5d193686834005591f3244b6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/6f6c8d0aff6652795952a451d5a51eff0d9338c6/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/9d4298abc65bb5ec7e091cd236db230219761230/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/49da4838ba756fe27f2f22291d2c3bd3598532b9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/44368bb70bd2b335d7bb245fd40ec11b3af0e15a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/03d301be865831c2159284cfdf87c0a981b11c6b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/c3151c0a3de3125177b11ddbbe46886fccce736e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/646d627eaf30eab70827c0778955e6b14b60fb2e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/366af655549a9cbadb595ee261ccff35561c4e7f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/a33ab9bb0e45cd7d15b7da5753984367fd93e0d9/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/f9f3b248893771c6ff8707a240d1bdb6f88fc8ba/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/faf31d58df4207e790ef9b9bd39459f1c7f1aaba/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/0230d61e87d10bac5d193686834005591f3244b6/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Volumes/Macintosh_HD/Users/redirect/.android/build-cache/0230d61e87d10bac5d193686834005591f3244b6/output/AndroidManifest.xml:26:9-47
